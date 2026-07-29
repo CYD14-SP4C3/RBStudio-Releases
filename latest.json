@@ -1,0 +1,6 @@
+{
+  "version": "0.36.0",
+  "installerUrl": "https://github.com/CYD14-SP4C3/RBStudio-Releases/releases/download/v0.36.0/RBStudio-Setup-0.36.0-win-x64.exe",
+  "sha256": "78093AF190550AF2AC6065F701929267B7CD2F891A1C2A6F5C1C33C435F4EB7C",
+  "releaseNotes": "First installed release with one-click updates and automatic RB3 CON engine setup."
+}
