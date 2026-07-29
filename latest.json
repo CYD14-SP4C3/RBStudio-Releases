@@ -1,6 +1,6 @@
 {
-  "version": "0.36.0",
-  "installerUrl": "https://github.com/CYD14-SP4C3/RBStudio-Releases/releases/download/v0.36.0/RBStudio-Setup-0.36.0-win-x64.exe",
-  "sha256": "78093AF190550AF2AC6065F701929267B7CD2F891A1C2A6F5C1C33C435F4EB7C",
-  "releaseNotes": "First installed release with one-click updates and automatic RB3 CON engine setup."
+  "version": "0.37.0",
+  "installerUrl": "https://github.com/CYD14-SP4C3/RBStudio-Releases/releases/download/v0.37.0/RBStudio-Setup-0.37.0-win-x64.exe",
+  "sha256": "FD0AD1176108158DB794059C6C29F1DE0DBE87E58D0F31D4AD02F8DFE1A43696",
+  "releaseNotes": "Adds the MOGG Audio Analyzer, Album Art Manager, bundled engine setup, dependency verification, and writable batch reports."
 }
